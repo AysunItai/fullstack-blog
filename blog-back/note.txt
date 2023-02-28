@@ -1,0 +1,10 @@
+//backend design
+
+i want two get requests: first one will get most recent 10 posts,
+//second one will get the clicked posts
+//using mysql database
+//used type module
+//instal mysql2 library
+npm i mysql2
+
+dotenv library install for protecting of personal data
